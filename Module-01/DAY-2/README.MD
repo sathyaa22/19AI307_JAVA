@@ -49,7 +49,6 @@ Input       Expected         Got
 
 23          true             true
 24          
-
 124         false            false 
 23
 ```
