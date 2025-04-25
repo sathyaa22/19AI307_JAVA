@@ -20,19 +20,26 @@ b)	If the condition is false, print "false" using the 'print' method of 'System.
 ## PROGRAM:
  
 ```
-/*
 Program to implement a variable and operators using Java
-Developed by: 
-RegisterNumber:  
-*/
+Developed by: SATHYAA R
+RegisterNumber: 212223100052
 ```
 
 ## Sourcecode.java:
 
-
-
-
-
+```
+import java.util.*;
+public class Demo
+{
+    public static void main(String[] args)
+    {
+        Scanner sc=new Scanner(System.in);
+        double a = sc.nextDouble();
+        double b = sc.nextDouble();
+        System.out.println(a < 50 || a < b);
+    }
+}
+```
 
 
 ## OUTPUT:
