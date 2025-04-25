@@ -1,7 +1,7 @@
 # Ex.No:1(A) CLASS & OBJECTS
 
 ## AIM:
-To create a class named 'Student' with String variable 'name' and String variable 'address'.
+To create a class named 'Student' with String variable 'name' and String variable 'address' and Integer variable 'rollno'.
 
 ## ALGORITHM :
 1.	Start the program.
@@ -52,4 +52,4 @@ public class Main
 
 
 ## RESULT:
-Thus, the class named 'Student' with String variable 'name' and String variable 'address' was created successfully.
+Thus, the class named 'Student' with String variable 'name' and String variable 'address' and Integer variable 'rollno' was created successfully.
