@@ -4,6 +4,7 @@
 To write a Java program to get values of variables 'a' and 'b' and then check if one of the conditions 'a < 50' and 'a < b' are true. [Class name is ‘Demo’]
 
 ## ALGORITHM :
+
 1.	Start the program.
 2.	Import the necessary package 'java.util'
 3.	Define a class named 'Demo'
@@ -14,7 +15,7 @@ To write a Java program to get values of variables 'a' and 'b' and then check if
 8.	Check if 'a' is less than 50 or if 'a' is less than 'b'
 a)	If the condition is true, print "true" using the 'print' method of 'System.out'
 b)	If the condition is false, print "false" using the 'print' method of 'System.out'
-9.	End
+9.	End the program.
 
 
 ## PROGRAM:
@@ -44,15 +45,15 @@ public class Demo
 
 ## OUTPUT:
 
-```
+
 | Input | Expected | Got   |
 | 23    | true     | true  |        
 | 24    |          |       |         
 |--------------------------|
 | 124   | false    | false |
 | 23    |          |       | 
-|_______|__________|_______|
-```
+|       |          |       |
+
 
 ## RESULT:
 Thus, the Java program to get values of variables 'a' and 'b' and then check if one of the conditions 'a < 50' and 'a < b' are true is created successfully.
