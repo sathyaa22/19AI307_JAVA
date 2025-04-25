@@ -1,7 +1,7 @@
 # Ex.No:1(B) VARIABLES AND OPERATOR
 
 ## AIM:
-To write a Java program to get values of variables 'a' and 'b' and then check if both the conditions 'a < 50' and 'a < b' are true. [Class name is ‘Demo’]
+To write a Java program to get values of variables 'a' and 'b' and then check if one of the conditions 'a < 50' and 'a < b' are true. [Class name is ‘Demo’]
 
 ## ALGORITHM :
 1.	Start the program.
@@ -17,11 +17,9 @@ b)	If the condition is false, print "false" using the 'print' method of 'System.
 9.	End
 
 
-
-
-
 ## PROGRAM:
- ```
+ 
+```
 /*
 Program to implement a variable and operators using Java
 Developed by: 
