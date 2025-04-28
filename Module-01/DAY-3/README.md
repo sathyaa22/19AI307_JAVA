@@ -11,11 +11,11 @@ To develop a Java program to check 101 is positive or negative number.
 5.	Read an integer input from the user and store it in variable "num"
 6.	Check if num is less than 0: a) If true, print num + " is Negative".
 b) Else, print num + " is Positive".
-7. End the proram.
+7. End the program.
 
 ## PROGRAM:
 ```
-Program to implement a class & objects using Java
+Program to implement control statements using Java
 Developed by: SATHYAA R
 RegisterNumber: 212223100052
 ```
