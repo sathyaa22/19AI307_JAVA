@@ -43,7 +43,6 @@ public void display()
 |    Expected    |        Got      |
 |----------------|-----------------|
 |welcome to java | welcome to java |
-|----------------|-----------------|
 
 
 ## RESULT:
